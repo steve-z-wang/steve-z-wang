@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about nerual network related stuff
+- 📫 How to reach me: stevewang7@outlook.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a huge prog rock fan! 
+
+
 <!--
 **stevewang01/stevewang01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
