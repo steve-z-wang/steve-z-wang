@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about nerual network related stuff
+- 🌱 I’m interesting in nerual networks and robotics
 - 📫 How to reach me: stevewang7@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge prog rock fan! 
