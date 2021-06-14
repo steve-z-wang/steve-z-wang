@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m interesting in nerual networks and robotics
-- 📫 How to reach me: stevewang7@outlook.com
+- 🌱 I’m interesting in Artificial Intelligence and Deep Learning
+- 📫 How to reach me: steve.wang@emory.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge prog rock fan! 
 
