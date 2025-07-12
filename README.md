@@ -1,10 +1,8 @@
-# Welcome to My GitHub Page!
+# Hi, I'm Steve
 
-Hi there! I'm Steve. I like building things from scratch.
+I’m a software engineer who loves building things from scratch — especially products that are simple, useful, and well-designed.
 
-Feel free to connect with me:
-- **LinkedIn:** [linkedin.com/in/stevewang2000](https://www.linkedin.com/in/stevewang2000/)
-- **Email:** stevewang.at.work@gmail.com
-- **My Blog:** [stevewanglog.com](http://stevewanglog.com)
+📝 I write about what I learn on my [personal blog](http://stevewanglog.com).  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/stevewang2000/).
 
-Thanks for stopping by!
+Thanks for visiting!
