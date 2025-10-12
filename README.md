@@ -1,6 +1,12 @@
-# Hi, I'm Steve
+## Welcome
 
-I’m a software engineer who loves building things from scratch — especially products that are simple, useful, and well-designed.
+This is Steve. I love building things from scratch. 
+
+Projects that I'm working on lately: 
+1. AI fashion selling app
+2. browser automation with natural language
+3. Activity-Modulated Backpropagation
+
 
 📝 I write about what I learn on my [personal blog](http://stevewanglog.com).  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/stevewang2000/).
