@@ -7,8 +7,7 @@ Projects that I'm working on lately:
 2. browser automation with natural language
 3. Activity-Modulated Backpropagation
 
-
-📝 I write about what I learn on my [personal blog](http://stevewanglog.com).  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/stevewang2000/).
+I write about what I learn on my [personal blog](http://stevewanglog.com).  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/stevewang2000/).
 
 Thanks for visiting!
